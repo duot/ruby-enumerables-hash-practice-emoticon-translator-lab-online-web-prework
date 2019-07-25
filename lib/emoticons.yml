@@ -15,7 +15,7 @@ get_meaning:
   (^_-):	wink
   
 
-get_emoticon: {
+get_emoticon: 
   "O:)":	☜(⌒▽⌒)☞
   ">\\:(":	ヽ(ｏ`皿′ｏ)ﾉ
   :O:	(ΘεΘ;)
@@ -29,5 +29,5 @@ get_emoticon: {
   :'(:	(Ｔ ▽ Ｔ)
   :o:	o_O
   ;):	(^_-)
-  }
+  
 ---
