@@ -1,5 +1,5 @@
 ---
-get_meaning: {
+get_meaning: 
   ☜(⌒▽⌒)☞:	angel
   ヽ(ｏ`皿′ｏ)ﾉ:	angry
   (ΘεΘ;):	bored
@@ -13,7 +13,7 @@ get_meaning: {
   (Ｔ ▽ Ｔ):	sad
   o_O:	surprised
   (^_-):	wink
-  }
+  
 
 get_emoticon: {
   "O:)":	☜(⌒▽⌒)☞
